@@ -1,0 +1,16 @@
+export const bodyColor = "#FAFAFA";
+export const colorWhite = "#FFFFFF";
+export const textColorSecond = "#444444";
+export const textColorThird = "#1E9FAB";
+export const textColorFourth = "#777777";
+export const firstColor = "#6E57E0";
+export const firstColorHover = "#285BD4";
+export const secondColor = "#00C9FF";
+export const secondColorHover = "#00B5E7";
+export const thirdColor = "#C0A631";
+export const firstShadowColor = "#0000001A";
+export const buttonCvColor = "#EFEFEF";
+export const borderColor = "#AAAAAA";
+export const colorScrollPrimary = "#F1F1F1";
+export const colorScrollSecond = "#CCCCCC";
+export const colorScrollThird = "#BBBBBB";
