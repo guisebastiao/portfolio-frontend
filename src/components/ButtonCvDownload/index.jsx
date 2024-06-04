@@ -13,6 +13,9 @@ const ButtonCvDownload = () => {
       const { data } = await axios.get("/download", { responseType: "blob" });
       FileDownload(data, "CvGuilherme.pdf");
     } catch(error){
+
+      console.log(error)
+
       toast.error("Algo deu errado, tente novamente mais tarde.")
     }
   }

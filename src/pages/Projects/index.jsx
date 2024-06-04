@@ -1,6 +1,6 @@
 import { FeatureProjects, Project, ProjectName, ProjectDescription } from "./styled";
 
-import { GiTicTacToe, GiPuppet, GiSandSnake } from "react-icons/gi";
+import { GiTicTacToe, GiSandSnake } from "react-icons/gi";
 import { TbSquareLetterTFilled } from "react-icons/tb";
 import { PiBird } from "react-icons/pi";
 
