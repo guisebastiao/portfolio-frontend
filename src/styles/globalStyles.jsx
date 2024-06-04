@@ -12,6 +12,7 @@ export default createGlobalStyle`
     text-decoration: none;
     box-sizing: border-box;
     scroll-behavior: smooth;
+    -webkit-tap-highlight-color: transparent;
     font-family: "Poppins", sans-serif;
   }
 
